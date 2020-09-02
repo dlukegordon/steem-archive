@@ -1,0 +1,5 @@
+Click==7.0
+python_dateutil==2.8.0
+SQLAlchemy==1.2.17
+steem==1.0.1
+termcolor==1.1.0
